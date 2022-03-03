@@ -1,7 +1,7 @@
+### Funcionamento do site
 
-<p align="center">
-    <img width="800" height="600" src="src/assets/to_readme/jeffloca.gif" >
-</p>
+
+![Site](https://github.com/Jeff-Aug/jefflocad/blob/main/jeffloca.gif)
 ## Available Scripts
 
 In the project directory, you can run:
