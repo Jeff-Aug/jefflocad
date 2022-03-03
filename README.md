@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img width="800" height="600" src="src/assets/to_readme/jeffloca" >
+    <img width="800" height="600" src="src/assets/to_readme/jeffloca.gif" >
 </p>
 ## Available Scripts
 
