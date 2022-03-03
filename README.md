@@ -1,7 +1,7 @@
 ### Funcionamento do site
 
 
-![Site](https://github.com/Jeff-Aug/jefflocad/blob/main/jeffloca.gif)
+![Site](https://github.com/Jeff-Aug/jefflocad/blob/main/ezgif.com-gif-maker.gif)
 ## Available Scripts
 
 In the project directory, you can run:
